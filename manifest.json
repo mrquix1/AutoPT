@@ -1,6 +1,6 @@
 {
-  "name": "Seanime Portuguese Translate Extension",
   "id": "seanime-translate-pt",
+  "name": "Seanime Portuguese Translate Extension",
   "version": "1.0.0",
   "description": "Automatically translates anime titles, descriptions, and metadata into Portuguese.",
   "author": "mrquix1",
@@ -10,5 +10,7 @@
   "tags": ["translate", "portuguese", "metadata"],
   "website": "https://github.com/mrquix1/seanime-translate-extension",
   "repository": "https://github.com/mrquix1/seanime-translate-extension",
-  "license": "MIT"
+  "license": "MIT",
+  "settings": [],
+  "supportedLanguages": ["pt"]
 }
