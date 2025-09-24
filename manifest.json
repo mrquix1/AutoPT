@@ -2,15 +2,18 @@
   "id": "seanime-translate-pt",
   "name": "Seanime Portuguese Translate Extension",
   "version": "1.0.0",
+  "manifestURI": "https://raw.githubusercontent.com/mrquix1/AutoPT/main/files/manifest.json",
+  "language": "javascript",
+  "type": "translate",
   "description": "Automatically translates anime titles, descriptions, and metadata into Portuguese.",
   "author": "mrquix1",
-  "main": "index.js",
-  "type": "translate",
-  "icon": "icon.png",
-  "tags": ["translate", "portuguese", "metadata"],
+  "icon": "https://raw.githubusercontent.com/mrquix1/Seanime-assets/main/icon.png",
   "website": "https://github.com/mrquix1/seanime-translate-extension",
-  "repository": "https://github.com/mrquix1/seanime-translate-extension",
-  "license": "MIT",
-  "settings": [],
-  "supportedLanguages": ["pt"]
+  "lang": "PT",
+  "payloadURI": "https://raw.githubusercontent.com/mrquix1/AutoPT/main/files/index.js",
+  "plugin": {
+    "version": "1",
+    "permissions": {}
+  },
+  "isDevelopment": false
 }
