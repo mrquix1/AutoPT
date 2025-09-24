@@ -1,0 +1,9 @@
+{
+  "name": "Seanime Portuguese Translate Extension",
+  "id": "seanime-translate-pt",
+  "version": "1.0.0",
+  "description": "Automatically translates anime titles, descriptions, and metadata into Portuguese.",
+  "author": "mrquix1",
+  "main": "index.js",
+  "type": "anime-source"
+}
