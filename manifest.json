@@ -5,5 +5,10 @@
   "description": "Automatically translates anime titles, descriptions, and metadata into Portuguese.",
   "author": "mrquix1",
   "main": "index.js",
-  "type": "anime-source"
+  "type": "translate",
+  "icon": "icon.png",
+  "tags": ["translate", "portuguese", "metadata"],
+  "website": "https://github.com/mrquix1/seanime-translate-extension",
+  "repository": "https://github.com/mrquix1/seanime-translate-extension",
+  "license": "MIT"
 }
